@@ -6,6 +6,7 @@ module.exports = {
       colors: {
         "yellow-custom": "hsl(47, 88%, 63%)",
         "grey-custom": "hsl(0, 0%, 50%)",
+        "border-black-custom": "hsl(0, 0%, 7%)",
       },
     },
   },
